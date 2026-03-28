@@ -1,8 +1,19 @@
 # 🛡️ CyberScan Pro
 
-> **Professional Network Reconnaissance & Threat Intelligence Platform**  
+> **Cyber Risk Assessment & Threat Intelligence Platform**  
 > Built with Python · Streamlit · FastAPI · SQLite · VirusTotal API · Nmap
 
+---
+# Cyber Risk Assessment & Threat Intelligence Platform
+
+## 👤 Author
+**Vamsi Kandula**
+
+## 📌 Project Type
+
+This is an **individually developed project**, designed and implemented by me as part of my learning and hands-on experience during my **Infosys Springboard Internship**.
+
+This project represents my final submission for the internship.
 ---
 
 ## 📌 What is CyberScan Pro?
@@ -271,5 +282,16 @@ API Docs  → http://localhost:8000/docs
 - PDF reports are saved to the `reports/` folder with a timestamp in the filename.
 
 ---
+---
+
+## 📌 Acknowledgment
+
+This project was developed independently by me as part of my learning journey and practical implementation.
+
+During the development process, I leveraged AI tools such as ChatGPT and Claude AI to assist with understanding concepts, writing and optimizing code, testing the application, and improving overall code quality.
+
+These tools helped me enhance productivity and build a more efficient and structured solution.
+
+I would also like to express my sincere gratitude to my instructors for their continuous guidance and support. Their mentorship played a crucial role in helping me successfully complete this project during my Infosys Springboard Internship.
 
 *CyberScan Pro — Built for educational and authorised security assessment purposes only.*
